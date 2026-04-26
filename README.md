@@ -1,6 +1,8 @@
 # Hi 👋, I'm Frko5000 
 
-🔭 I’m currently working on [**CoreWatcher**](https://github.com/Frko5000/CoreWatcher) & **SukulentPvP Addon** 🌱 I'm currently learning **JavaScript**, **Python** and **Minecraft Scripting**
+🔭 I’m currently working on [**CoreWatcher**](https://github.com/Frko5000/CoreWatcher) & **SukulentPvP Addon** 
+
+🌱 I'm currently learning **JavaScript**, **Python** and **Minecraft Scripting**
 
 💬 Ask me about **Minecraft** & **CodeCombat**
 
