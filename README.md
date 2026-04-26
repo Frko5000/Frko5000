@@ -1,5 +1,4 @@
 # Hi 👋, I'm Frko5000 
-(he/him)
 
 🔭 I'm currently working on **SukulentPvP Addon**
 
@@ -7,10 +6,7 @@
 
 💬 Ask me about **Minecraft** & **CodeCombat**
 
-### Contacts:
 📫 How to reach me **You cant**
-
-▶️ YouTube: [Frko5000](https://www.youtube.com/@Frko5000)
 
 ⚡ Fun fact **I love kebab**
 
