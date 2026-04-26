@@ -1,12 +1,16 @@
-# Hi 👋, I'm Frko5000 (he/him)
+# Hi 👋, I'm Frko5000 
+(he/him)
 
 🔭 I'm currently working on **SukulentPvP Addon**
 
-🌱 I'm currently learning **JavaScript** and **Python**
+🌱 I'm currently learning **JavaScript**, **Python** and **Minecraft Scripting**
 
 💬 Ask me about **Minecraft** & **CodeCombat**
 
+### Contacts:
 📫 How to reach me **You cant**
+
+▶️ YouTube: [Frko5000](https://www.youtube.com/@Frko5000)
 
 ⚡ Fun fact **I love kebab**
 
@@ -15,7 +19,7 @@
 ### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,arduino,github,js" />
+    <img src="https://skillicons.dev/icons?i=py,html,arduino,github,js,nodejs" />
   </a>
 </p>
 
