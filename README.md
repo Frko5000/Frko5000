@@ -1,10 +1,15 @@
-# Hi 👋, I'm Frko5000
+# Hi 👋, I'm Frko5000 (he/him)
 
 🔭 I'm currently working on **SukulentPvP Addon**
-🌱 I'm currently learning **JavaScript**, **Python** and **Minecraft Scripting**
+
+🌱 I'm currently learning **JavaScript** and **Python**
+
 💬 Ask me about **Minecraft** & **CodeCombat**
+
 📫 How to reach me **You cant**
+
 ⚡ Fun fact **I love kebab**
+
 👨‍💻 My GitHub Projects: [https://github.com/Frko5000](https://github.com/Frko5000)
 
 ### Languages and Tools:
@@ -18,4 +23,4 @@
 ![Frko's Stats](https://github-readme-stats.vercel.app/api?username=Frko5000&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
-*Vibecoded with love.*
+*Vibe coded with love.*
