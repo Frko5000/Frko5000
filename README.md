@@ -6,7 +6,7 @@
 
 💬 Ask me about **Minecraft** & **CodeCombat**
 
-📫 How to reach me **You cant**
+📫 How to reach me **You cant :3**
 
 ⚡ Fun fact **I love kebab**
 
