@@ -1,6 +1,6 @@
 # Hi 👋, I'm Frko5000 
 
-🔭 I'm currently working on **SukulentPvP Addon**
+🔭 I'm currently working on **SukulentPvP Addon And Invisible Text Encryptor**
 
 🌱 I'm currently learning **JavaScript**, **Python** and **Minecraft Scripting**
 
