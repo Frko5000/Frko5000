@@ -1,6 +1,5 @@
 # Hi 👋, I'm Frko5000 
-
-🔭 I’m currently working on **CoreWatcher**, **NetScanner**& **SukulentPvP Addon** 
+🔭 I'm currently working on [**CoreWatcher**](https://github.com/Frko5000/CoreWatcher), [**NetScanner**](https://github.com/Frko5000/NetScanner) & **SukulentPvP Addon** 
 
 🌱 I'm currently learning **JavaScript**, **Python**
 
