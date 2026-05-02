@@ -9,7 +9,7 @@
 
 ⚡ Fun fact **I love kebab**
 
-👨‍💻 My GitHub Projects: [https://github.com/Frko5000](https://github.com/Frko5000)
+👨‍💻 My Website : [https://Frko5000.github.io](https://Frko5000.github.io)
 
 ### Languages and Tools:
 <p align="left">
