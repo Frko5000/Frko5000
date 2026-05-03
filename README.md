@@ -19,7 +19,7 @@
 </p>
 
 ### My Stats:
-![Frko's Stats](https://github-readme-stats.vercel.app/api?username=Frko5000&show_icons=true&theme=tokyonight&hide_border=true)
+![Frko's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frko5000&theme=tokyonight&hide_border=true)
 
 ---
 *Vibe coded with love.*
